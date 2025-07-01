@@ -1,0 +1,61 @@
+{
+  "company": {
+    "shortName": "LOJA UTILAR",
+    "fullName": "LOJA UTILAR DISTRIBUIDORA LTDA",
+    "address": "AV SEN TEOTONIO VILELA, 1611, LOTE 4 QUADRA202,CIDADE DUTRA, SÃO PAULO - SP, CEP 04801-010",
+    "cnpj": "02.192.963/0001-60",
+    "phone": "(21) 98984-3011",
+    "email": "contato@utilardistribuidora.shop",
+    "website": "utilardistribuidora.shop"
+  },
+  "hero": {
+    "title": "Moda que inspira, estilo que transforma",
+    "subtitle": "Bem-vindo à {companyShortName}",
+    "description": "Loja especializada em moda feminina e masculina com mais de 10 anos oferecendo as últimas tendências e peças exclusivas.",
+    "backgroundImage": "https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop"
+  },
+  "services": [
+    {
+      "title": "Moda Feminina",
+      "description": "Coleções exclusivas de roupas femininas, desde casual até social, sempre seguindo as últimas tendências da moda.",
+      "icon": "heart"
+    },
+    {
+      "title": "Moda Masculina",
+      "description": "Linha completa de roupas masculinas modernas e elegantes, perfeitas para todas as ocasiões.",
+      "icon": "users"
+    },
+    {
+      "title": "Acessórios Premium",
+      "description": "Bolsas, sapatos, joias e acessórios cuidadosamente selecionados para complementar seu visual.",
+      "icon": "star"
+    },
+    {
+      "title": "Personal Shopper",
+      "description": "Consultoria de moda personalizada para ajudar você a encontrar o look perfeito para cada ocasião.",
+      "icon": "zap"
+    }
+  ],
+  "about": {
+    "title": "Conheça a {companyShortName}",
+    "mission": "Somos uma boutique especializada em moda feminina e masculina, com mais de 10 anos de experiência no mercado fashion. Nossa missão é oferecer peças únicas e de qualidade que expressem a personalidade e estilo de cada cliente.",
+    "vision": "Na {companyShortName}, acreditamos que a moda é uma forma de expressão pessoal. Trabalhamos com marcas renomadas e designers exclusivos para trazer as últimas tendências e peças atemporais que fazem a diferença no seu guarda-roupa."
+  },
+  "testimonials": [
+    {
+      "text": "Adoro fazer compras aqui! Sempre encontro peças únicas e o atendimento é excepcional. As vendedoras têm um ótimo gosto e me ajudam a montar looks incríveis.",
+      "author": "Fernanda Lima",
+      "rating": 5
+    },
+    {
+      "text": "Melhor loja de moda da cidade! A qualidade das roupas é excelente e os preços são justos. Já sou cliente há anos e sempre saio satisfeita.",
+      "author": "Juliana Santos",
+      "rating": 5
+    },
+    {
+      "text": "O personal shopper da loja é fantástico! Me ajudou a renovar completamente meu guarda-roupa. Agora me sinto muito mais confiante e elegante.",
+      "author": "Carla Mendes",
+      "rating": 5
+    }
+  ]
+}
